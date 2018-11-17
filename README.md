@@ -13,3 +13,8 @@ A “Quick Start Project” for JAX-RS, React and React Native based application
 - Step 5: run SetupTestUser.java to create test users or run main to just create mySQL tables
 - Step 6: run project
 - Step 7: ??? profit
+- Step 8: Clone https://github.com/grem848/CA3-FrontEnd
+- Step 9: npm install in root of cloned project
+- step 10: ??? profit again
+
+
